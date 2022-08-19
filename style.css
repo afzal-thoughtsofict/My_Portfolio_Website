@@ -3,4 +3,35 @@ body{
 }
 #top-header{
     display: flex;
+    width: 50%;
+    margin-top: 50px;
+}
+.first-header{
+    margin-left: 50px;
+}
+h3{
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+    color: blueviolet;
+}
+span{
+    color: aqua;
+}
+p{
+    font-size: small;
+    text-align: justify;
+}
+.link-batton{
+    text-decoration: none;
+    background-image: linear-gradient(Orange,tomato);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+}
+.second-header img{
+    width: 180%;
+    height: 100%;
+    margin-left: 200px;
 }
